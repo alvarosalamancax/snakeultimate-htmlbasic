@@ -1,0 +1,12 @@
+* {
+    background: black;
+}
+
+body {
+    font-size: 40px; 
+    color: white;
+}
+
+canvas {
+    background: white;
+}
